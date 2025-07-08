@@ -2,6 +2,7 @@
 # Internship Projects - Sneha Devnani
 
 This repository contains two small React-based projects completed during the internship.
+Clone the repository first..
 
 ---
 
